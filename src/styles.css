@@ -1,0 +1,1626 @@
+#footer-outer #copyright li a i:hover,
+#header-outer #mobile-menu ul li a:focus,
+#header-outer #mobile-menu ul li a:focus .sf-sub-indicator i,
+#header-outer #mobile-menu ul li a:hover,
+#header-outer #mobile-menu ul li a:hover .sf-sub-indicator i,
+#header-outer #mobile-menu ul li[class*=current]>a,
+#header-outer[data-format=left-header] #top nav>ul>li:not(.megamenu) ul a:hover,
+#top nav .sf-menu .current_page_item>a .sf-sub-indicator i,
+.icon-3x[class^=icon-],
+.pricing-column h3,
+body [class^=icon-].icon-default-style,
+body a,
+div[data-style=minimal] .toggle.open h3 a,
+div[data-style=minimal] .toggle:hover h3 a {
+    color: #ff9600
+}
+* {
+    padding: 0;
+    margin: 0;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+*::-webkit-scrollbar {
+    display: none;
+}
+#footer-outer a:focus,
+#footer-outer a:hover,
+#header-outer .widget_shopping_cart .cart_list a,
+#header-outer .woocommerce.widget_shopping_cart .cart_list li a.remove,
+#header-outer:not(.transparent) #social-in-menu a i:after,
+#header-outer:not([data-format=left-header]) #top nav>ul>.megamenu ul ul .current-menu-item.has-ul>a,
+#header-outer[data-format=left-header] .sf-menu .sub-menu .current-menu-item>a,
+#header-outer[data-lhe=default] #top nav .sf-menu>.current-menu-item>a,
+#header-outer[data-lhe=default] #top nav .sf-menu>.current_page_item>a,
+#header-outer[data-lhe=default] #top nav>ul>li>a:hover,
+#top nav ul #search-btn a:hover span,
+#top nav ul .slide-out-widget-area-toggle a:hover span,
+#top nav>ul>.megamenu>ul>li>a:focus,
+#top nav>ul>.megamenu>ul>li>a:hover,
+.minimal.product .product-wrap i,
+.nectar-slide-in-cart .widget_shopping_cart .cart_list a,
+.nectar_icon_wrap[data-color=accent-color] i,
+.nectar_team_member_close .inner:before,
+.pricing-table[data-style=flat-alternative] .pricing-column.accent-color .interval,
+.pricing-table[data-style=flat-alternative] .pricing-column.accent-color h4,
+.sf-menu .megamenu>ul>li:hover>a,
+.sf-menu>li>a:active>.sf-sub-indicator i,
+.sf-menu>li>a:hover>.sf-sub-indicator i,
+.svg-icon-holder[data-color=accent-color],
+.team-member .accent-color:hover,
+.text_on_hover.product .add_to_cart_button,
+body #header-secondary-outer #social a:focus i,
+body #header-secondary-outer #social a:hover i,
+body.material #header-outer:not(.transparent) .cart-outer:hover .cart-menu-wrap .icon-salient-cart,
+body.material .nectar-button.see-through.accent-color[data-color-override=false],
+body.material:not([data-header-color=custom]) #header-outer:not([data-format=left-header]) #top ul.cart_list a:hover,
+body:not(.material) #search-outer #search #close a span:hover,
+body:not([data-header-format=left-header]) #top nav>ul>.megamenu>ul>li>ul>.has-ul>a:focus,
+body:not([data-header-format=left-header]) #top nav>ul>.megamenu>ul>li>ul>.has-ul>a:hover,
+body[data-form-submit=see-through] button[type=submit],
+body[data-form-submit=see-through] input[type=submit],
+span.accent-color {
+    color: #ff9600!important
+}
+
+#slide-out-widget-area,
+#slide-out-widget-area-bg.fullscreen,
+.pricing-table[data-style=default] .pricing-column.highlight.accent-color h3,
+.pricing-table[data-style=flat-alternative] .pricing-column.accent-color:before,
+.pricing-table[data-style=flat-alternative] .pricing-column.highlight h3 .highlight-reason,
+.tabbed[data-style*=material][data-color-scheme=accent-color] ul:after,
+.tabbed[data-style*=minimal]>ul li a:after,
+.toggle.open h3 a,
+body.material #slide-out-widget-area-bg.slide-out-from-right,
+body[data-form-submit=regular] .container-wrap .span_12.light button[type=submit]:hover,
+body[data-form-submit=regular] .container-wrap .span_12.light input[type=submit]:hover,
+body[data-form-submit=regular] button[type=submit],
+body[data-form-submit=regular] input[type=submit],
+div[data-style=minimal] .toggle.open h3 i:after,
+div[data-style=minimal] .toggle.open h3 i:before,
+div[data-style=minimal] .toggle:hover h3 i:after,
+div[data-style=minimal] .toggle:hover h3 i:before,
+input[type=button]:hover,
+input[type=submit]:hover {
+    background-color: #ff9600
+}
+
+#footer-outer #footer-widgets .col input[type=submit],
+#header-outer #top nav>ul>li:not(.megamenu) ul a:hover,
+#header-outer .widget_shopping_cart a.button,
+#header-outer:not([data-format=left-header]) #top nav>ul>li:not(.megamenu) ul .current-menu-item>a,
+#header-outer:not([data-format=left-header]) #top nav>ul>li:not(.megamenu) ul a:hover,
+#header-secondary-outer ul>li:not(.megamenu) ul a:focus,
+#header-secondary-outer ul>li:not(.megamenu) ul a:hover,
+#page-header-bg[data-post-hs=default_minimal] .inner-wrap>a:focus,
+#page-header-bg[data-post-hs=default_minimal] .inner-wrap>a:hover,
+#to-top.dark:hover,
+#to-top:hover,
+#top nav ul .slide-out-widget-area-toggle a:hover .lines,
+#top nav ul .slide-out-widget-area-toggle a:hover .lines-button:after,
+#top nav ul .slide-out-widget-area-toggle a:hover .lines:after,
+#top nav ul .slide-out-widget-area-toggle a:hover .lines:before,
+#top nav>ul>.megamenu>ul ul li a:focus,
+#top nav>ul>.megamenu>ul ul li a:hover,
+.divider-border[data-color=accent-color],
+.divider-small-border[data-color=accent-color],
+.nectar-button[data-color-override=false].regular-button,
+.nectar-fancy-box:after,
+.nectar-slide-in-cart .widget_shopping_cart a.button,
+.nectar_icon_wrap[data-style=border-animation][data-color=accent-color]:not([data-draw=true]) .nectar_icon:hover,
+.swiper-slide .button.solid_color_2 a,
+.woocommerce .cart .quantity input.plus:hover,
+.woocommerce .material.product .add_to_cart_button,
+.woocommerce div.product .woocommerce-tabs .full-width-content ul.tabs li a:after,
+body .nectar-button.see-through-2[data-hover-color-override=false]:hover,
+body.material #page-header-bg.fullscreen-header .inner-wrap>a,
+body.material[data-button-style^=rounded] .nectar-button.see-through.accent-color[data-color-override=false] i,
+body:not([data-header-format=left-header]) #top nav>ul>.megamenu>ul ul .current-menu-item>a,
+body[data-button-style*=rounded] #to-top:after,
+body[data-form-submit=see-through] .container-wrap .span_12.light button[type=submit]:hover,
+body[data-form-submit=see-through] .container-wrap .span_12.light input[type=submit]:hover,
+body[data-form-submit=see-through] button[type=submit]:hover,
+body[data-form-submit=see-through] input[type=submit]:hover,
+body[data-header-format=left-header] #header-outer[data-lhe=animated_underline] #top nav ul li:not([class*=button_])>a span:after,
+button[type=submit]:focus,
+button[type=submit]:hover {
+    background-color: #ff9600!important
+}
+
+#header-outer[data-lhe=animated_underline] #top nav>ul>li>a:after,
+.material #search-outer #search input[type=text],
+.material input[type=date]:focus,
+.material input[type=password]:focus,
+.material input[type=search]:focus,
+.material input[type=tel]:focus,
+.material input[type=text]:focus,
+.material input[type=url]:focus,
+body[data-form-style=minimal] input[type=date]:focus,
+body[data-form-style=minimal] input[type=password]:focus,
+body[data-form-style=minimal] input[type=search]:focus,
+body[data-form-style=minimal] input[type=tel]:focus,
+body[data-form-style=minimal] input[type=text]:focus,
+body[data-form-style=minimal] input[type=url]:focus,
+div[data-style=minimal] .toggle.accent-color.open i,
+div[data-style=minimal] .toggle.accent-color:hover i,
+div[data-style=minimal] .toggle.default.open i,
+div[data-style=minimal] .toggle.default:hover i {
+    border-color: #ff9600
+}
+
+#header-secondary-outer[data-lhe=animated_underline] nav>.sf-menu>li>a:after,
+.material blockquote::before,
+.nectar_icon_wrap[data-style=border-animation][data-color=accent-color]:not([data-draw=true]) .nectar_icon,
+.nectar_icon_wrap[data-style=border-animation][data-color=accent-color][data-draw=true]:hover .nectar_icon,
+body .nectar-button.see-through-2[data-hover-color-override=false]:hover,
+body.material .nectar-button.see-through.accent-color[data-color-override=false],
+body[data-form-submit=see-through] button[type=submit],
+body[data-form-submit=see-through] button[type=submit]:not(.search-widget-btn),
+body[data-form-submit=see-through] input[type=submit] {
+    border-color: #ff9600!important
+}
+
+.nectar_icon_wrap .svg-icon-holder[data-color=accent-color] svg path {
+    stroke: #ff9600!important
+}
+
+body.material[data-button-style^=rounded] .nectar-button.see-through.accent-color[data-color-override=false] i:after {
+    box-shadow: #ff9600 0 8px 15px;
+    opacity: .24
+}
+
+.nectar_team_member_close .inner {
+    border-color: #ff9600
+}
+
+#header-outer .widget_shopping_cart .cart_list li a.remove {
+    color: #ff4f0f!important
+}
+
+#header-outer .widget_shopping_cart a.button,
+body[data-slide-out-widget-area-style=slide-out-from-right]:not([data-header-color=custom]).material .slide_out_area_close:before {
+    background-color: #ff4f0f
+}
+
+#header-outer .woocommerce.widget_shopping_cart .cart_list li a.remove {
+    border-color: #ff4f0f
+}
+
+.icon-3x[class^=icon-].extra-color-1:not(.alt-style),
+.pricing-table[data-style=flat-alternative] .pricing-column.extra-color-1 .interval,
+.pricing-table[data-style=flat-alternative] .pricing-column.extra-color-1 h4,
+.pricing-table[data-style=flat-alternative] .pricing-column.highlight.extra-color-1 h3,
+div[data-style=minimal] .toggle.extra-color-1.open h3 a,
+div[data-style=minimal] .toggle.extra-color-1:hover h3 a {
+    color: #ff4f0f
+}
+
+.nectar_icon_wrap[data-color=extra-color-1] i,
+.svg-icon-holder[data-color=extra-color-1],
+.team-member .extra-color-1:hover,
+.team-member .social.extra-color-1 li a,
+body [class^=icon-].icon-default-style.extra-color-1,
+body [class^=icon-].icon-default-style[data-color=extra-color-1],
+body.material .nectar-button.see-through.extra-color-1[data-color-override=false],
+span.extra-color-1 {
+    color: #ff4f0f!important
+}
+
+.col:hover>[class^=icon-].icon-3x.extra-color-1:not(.alt-style),
+.pricing-table[data-style=flat-alternative] .pricing-column.extra-color-1:before,
+.pricing-table[data-style=flat-alternative] .pricing-column.highlight.extra-color-1 h3 .highlight-reason,
+.tabbed[data-style*=material][data-color-scheme=extra-color-1] ul:after,
+.toggle.open.extra-color-1 h3 a,
+div[data-style=minimal] .toggle.extra-color-1.open i:after,
+div[data-style=minimal] .toggle.extra-color-1:hover i:after,
+div[data-style=minimal] .toggle.extra-color-1:hover i:before,
+div[data-style=minimal] .toggle.open.extra-color-1 i:before {
+    background-color: #ff4f0f
+}
+
+.divider-border[data-color=extra-color-1],
+.divider-small-border[data-color=extra-color-1],
+.nectar-button.regular-button.extra-color-1,
+.nectar-fancy-box[data-color=extra-color-1]:after,
+.nectar-video-box[data-color=extra-color-1] .nectar_video_lightbox,
+.nectar_icon_wrap[data-style=border-animation][data-color=extra-color-1]:not([data-draw=true]) .nectar_icon:hover,
+.pricing-column.highlight.extra-color-1 h3,
+.swiper-slide .button.solid_color_2 .extra-color-1,
+body.material .nectar-video-box[data-color=extra-color-1] .nectar_video_lightbox:before,
+body.material[data-button-style^=rounded] .nectar-button.see-through.extra-color-1[data-color-override=false] i {
+    background-color: #ff4f0f!important
+}
+
+.nectar_icon_wrap .svg-icon-holder[data-color=extra-color-1] svg path {
+    stroke: #ff4f0f!important
+}
+
+body.material[data-button-style^=rounded] .nectar-button.see-through.extra-color-1[data-color-override=false] i:after {
+    box-shadow: #ff4f0f 0 8px 15px;
+    opacity: .24
+}
+
+.nectar_icon_wrap[data-style=border-animation][data-color=extra-color-1]:not([data-draw=true]) .nectar_icon,
+.nectar_icon_wrap[data-style=border-animation][data-color=extra-color-1][data-draw=true]:hover .nectar_icon,
+div[data-style=minimal] .toggle.extra-color-1:hover i,
+div[data-style=minimal] .toggle.open.extra-color-1 i {
+    border-color: #ff4f0f
+}
+
+body.material .nectar-button.see-through.extra-color-1[data-color-override=false] {
+    border-color: #ff4f0f!important
+}
+
+.icon-3x[class^=icon-].extra-color-2:not(.alt-style),
+.pricing-table[data-style=flat-alternative] .pricing-column.extra-color-2 .interval,
+.pricing-table[data-style=flat-alternative] .pricing-column.extra-color-2 h4,
+.pricing-table[data-style=flat-alternative] .pricing-column.highlight.extra-color-2 h3,
+div[data-style=minimal] .toggle.extra-color-2.open h3 a,
+div[data-style=minimal] .toggle.extra-color-2:hover h3 a {
+    color: #2ed397
+}
+
+.nectar_icon_wrap[data-color=extra-color-2] i,
+.svg-icon-holder[data-color=extra-color-2],
+.team-member .extra-color-2:hover,
+.team-member .social.extra-color-2 li a,
+body [class^=icon-].icon-default-style.extra-color-2,
+body [class^=icon-].icon-default-style[data-color=extra-color-2],
+body.material .nectar-button.see-through.extra-color-2[data-color-override=false],
+span.extra-color-2 {
+    color: #2ed397!important
+}
+
+.col:hover>[class^=icon-].icon-3x.extra-color-2:not(.alt-style),
+.pricing-table[data-style=flat-alternative] .pricing-column.extra-color-2:before,
+.pricing-table[data-style=flat-alternative] .pricing-column.highlight.extra-color-2 h3 .highlight-reason,
+.tabbed[data-style*=material][data-color-scheme=extra-color-2] ul:after,
+.toggle.open.extra-color-2 h3 a,
+div[data-style=minimal] .toggle.extra-color-2.open i:after,
+div[data-style=minimal] .toggle.extra-color-2:hover i:after,
+div[data-style=minimal] .toggle.extra-color-2:hover i:before,
+div[data-style=minimal] .toggle.open.extra-color-2 i:before {
+    background-color: #2ed397
+}
+
+.divider-border[data-color=extra-color-2],
+.divider-small-border[data-color=extra-color-2],
+.nectar-button.regular-button.extra-color-2,
+.nectar-fancy-box[data-color=extra-color-2]:after,
+.nectar-video-box[data-color=extra-color-2] .nectar_video_lightbox,
+.nectar_icon_wrap[data-style=border-animation][data-color=extra-color-2]:not([data-draw=true]) .nectar_icon:hover,
+.pricing-column.highlight.extra-color-2 h3,
+.swiper-slide .button.solid_color_2 .extra-color-2,
+body.material .nectar-video-box[data-color=extra-color-2] .nectar_video_lightbox:before,
+body.material[data-button-style^=rounded] .nectar-button.see-through.extra-color-2[data-color-override=false] i {
+    background-color: #2ed397!important
+}
+
+.nectar_icon_wrap .svg-icon-holder[data-color=extra-color-2] svg path {
+    stroke: #2ed397!important
+}
+
+body.material[data-button-style^=rounded] .nectar-button.see-through.extra-color-2[data-color-override=false] i:after {
+    box-shadow: #2ed397 0 8px 15px;
+    opacity: .24
+}
+
+.nectar_icon_wrap[data-style=border-animation][data-color=extra-color-2]:not([data-draw=true]) .nectar_icon,
+.nectar_icon_wrap[data-style=border-animation][data-color=extra-color-2][data-draw=true]:hover .nectar_icon,
+div[data-style=minimal] .toggle.extra-color-2:hover i,
+div[data-style=minimal] .toggle.open.extra-color-2 i {
+    border-color: #2ed397
+}
+
+body.material .nectar-button.see-through.extra-color-2[data-color-override=false] {
+    border-color: #2ed397!important
+}
+
+.icon-3x[class^=icon-].extra-color-3:not(.alt-style),
+.pricing-table[data-style=flat-alternative] .pricing-column.extra-color-3 .interval,
+.pricing-table[data-style=flat-alternative] .pricing-column.extra-color-3 h4,
+.pricing-table[data-style=flat-alternative] .pricing-column.highlight.extra-color-3 h3,
+div[data-style=minimal] .toggle.extra-color-3.open h3 a,
+div[data-style=minimal] .toggle.extra-color-3:hover h3 a {
+    color: #8224e3
+}
+
+.nectar_icon_wrap[data-color=extra-color-3] i,
+.svg-icon-holder[data-color=extra-color-3],
+.team-member .extra-color-3:hover,
+.team-member .social.extra-color-3 li a,
+body [class^=icon-].icon-default-style.extra-color-3,
+body [class^=icon-].icon-default-style[data-color=extra-color-3],
+body.material .nectar-button.see-through.extra-color-3[data-color-override=false],
+span.extra-color-3 {
+    color: #8224e3!important
+}
+
+.col:hover>[class^=icon-].icon-3x.extra-color-3:not(.alt-style),
+.pricing-table[data-style=flat-alternative] .pricing-column.extra-color-3:before,
+.pricing-table[data-style=flat-alternative] .pricing-column.highlight.extra-color-3 h3 .highlight-reason,
+.tabbed[data-style*=material][data-color-scheme=extra-color-3] ul:after,
+.toggle.open.extra-color-3 h3 a,
+div[data-style=minimal] .toggle.extra-color-3.open i:after,
+div[data-style=minimal] .toggle.extra-color-3:hover i:after,
+div[data-style=minimal] .toggle.extra-color-3:hover i:before,
+div[data-style=minimal] .toggle.open.extra-color-3 i:before {
+    background-color: #8224e3
+}
+
+.divider-border[data-color=extra-color-3],
+.divider-small-border[data-color=extra-color-3],
+.nectar-button.regular-button.extra-color-3,
+.nectar-fancy-box[data-color=extra-color-3]:after,
+.nectar-video-box[data-color=extra-color-3] .nectar_video_lightbox,
+.nectar_icon_wrap[data-style=border-animation][data-color=extra-color-3]:not([data-draw=true]) .nectar_icon:hover,
+.pricing-column.highlight.extra-color-3 h3,
+.swiper-slide .button.solid_color_2 .extra-color-3,
+body.material .nectar-video-box[data-color=extra-color-3] .nectar_video_lightbox:before,
+body.material[data-button-style^=rounded] .nectar-button.see-through.extra-color-3[data-color-override=false] i {
+    background-color: #8224e3!important
+}
+
+.nectar_icon_wrap .svg-icon-holder[data-color=extra-color-3] svg path {
+    stroke: #8224e3!important
+}
+
+body.material[data-button-style^=rounded] .nectar-button.see-through.extra-color-3[data-color-override=false] i:after {
+    box-shadow: #8224e3 0 8px 15px;
+    opacity: .24
+}
+
+.nectar_icon_wrap[data-style=border-animation][data-color=extra-color-3]:not([data-draw=true]) .nectar_icon,
+.nectar_icon_wrap[data-style=border-animation][data-color=extra-color-3][data-draw=true]:hover .nectar_icon,
+div[data-style=minimal] .toggle.extra-color-3:hover i,
+div[data-style=minimal] .toggle.open.extra-color-3 i {
+    border-color: #8224e3
+}
+
+body.material .nectar-button.see-through.extra-color-3[data-color-override=false] {
+    border-color: #8224e3!important
+}
+
+.divider-border[data-color=extra-color-gradient-1],
+.divider-small-border[data-color=extra-color-gradient-1],
+.nectar-fancy-box[data-style=default][data-color=extra-color-gradient-1]:after,
+.tabbed[data-style*=minimal][data-color-scheme=extra-color-gradient-1]>ul li a:after {
+    background: #0f8fff;
+    background: linear-gradient(to right, #0f8fff, #0de2b8)
+}
+
+.nectar-button.extra-color-gradient-1:after,
+.nectar_icon_wrap[data-color=extra-color-gradient-1] i,
+.nectar_icon_wrap[data-style=border-animation][data-color=extra-color-gradient-1]:before,
+.tabbed[data-style*=default][data-color-scheme=extra-color-gradient-1] ul li a:before,
+.tabbed[data-style*=material][data-color-scheme=extra-color-gradient-1] ul li a:before,
+.tabbed[data-style*=vertical][data-color-scheme=extra-color-gradient-1] ul li a:before {
+    background: #0f8fff;
+    background: linear-gradient(to bottom right, #0f8fff, #0de2b8)
+}
+
+body.material .nectar-button.regular.m-extra-color-gradient-1,
+body.material .nectar-button.see-through.m-extra-color-gradient-1:before {
+    background: #0f8fff;
+    background: linear-gradient(125deg, #0f8fff, #0de2b8)
+}
+
+body.material .nectar-button.regular.m-extra-color-gradient-1:before {
+    background: #0de2b8
+}
+
+.tabbed[data-style*=material][data-color-scheme=extra-color-gradient-1] ul:after {
+    background-color: #0de2b8
+}
+
+.nectar-button.extra-color-gradient-1 {
+    border-width: 3px;
+    border-style: solid;
+    -moz-border-image: -moz-linear-gradient(top right, #0f8fff 0, #0de2b8 100%);
+    -webkit-border-image: -webkit-linear-gradient(top right, #0f8fff 0, #0de2b8 100%);
+    border-image: linear-gradient(to bottom right, #0f8fff 0, #0de2b8 100%);
+    border-image-slice: 1
+}
+
+.nectar-gradient-text[data-color=extra-color-gradient-1][data-direction=horizontal] * {
+    background-image: linear-gradient(to right, #0f8fff, #0de2b8)
+}
+
+.nectar-gradient-text[data-color=extra-color-gradient-1] * {
+    color: #0f8fff;
+    background: linear-gradient(to bottom right, #0f8fff, #0de2b8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    display: inline-block
+}
+
+.nectar_icon_wrap[data-color=extra-color-gradient-1] i,
+[class^=icon-][data-color=extra-color-gradient-1]:before {
+    color: #0f8fff;
+    background: linear-gradient(to bottom right, #0f8fff, #0de2b8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    display: initial
+}
+
+.nectar-button.extra-color-gradient-1 .hover {
+    background: #0f8fff;
+    background: linear-gradient(to bottom right, #0f8fff, #0de2b8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    display: initial
+}
+
+body.material .nectar-button.regular.m-extra-color-gradient-2,
+body.material .nectar-button.see-through.m-extra-color-gradient-2:before {
+    background: #ff4f0f;
+    background: linear-gradient(125deg, #ff4f0f, #ff1053)
+}
+
+body.material .nectar-button.regular.m-extra-color-gradient-2:before {
+    background: #ff1053
+}
+
+#page-header-wrap,
+.container-wrap,
+.material .ocm-effect-wrap,
+.page-header-no-bg,
+body {
+    background-color: #2c2f33
+}
+
+body,
+body h1,
+body h2,
+body h3,
+body h4,
+body h5 {
+    color: #fff
+}
+
+.full-width-content>.col.span_12.dark,
+.full-width-section>.col.span_12.dark {
+    color: #fff
+}
+
+#header-outer #mobile-menu:before,
+#header-space,
+.material #header-outer #search-outer:before,
+.material #header-space,
+body #header-outer,
+body #search-outer,
+body.material[data-header-format=centered-menu-bottom-bar] #page-header-wrap.fullscreen-header,
+body[data-header-format=left-header].material #search-outer {
+    background-color: #2c2f33
+}
+
+body #header-outer,
+body[data-header-color=dark] #header-outer {
+    background-color: rgba(44, 47, 51, .97)
+}
+
+#header-outer #mobile-menu ul li a,
+#header-outer #top #mobile-cart-link i,
+#header-outer #top #toggle-nav i,
+#header-outer #top .sf-sub-indicator i,
+#header-outer #top .span_9>.slide-out-widget-area-toggle i,
+#header-outer #top nav ul #search-btn a span,
+#header-outer #top nav>ul>li>a,
+#header-outer:not(.transparent) #top #logo,
+#search-outer #search #close a span,
+#search-outer #search input[type=text],
+.material #header-outer #search-outer input::-webkit-input-placeholder,
+.material #search-outer #search .span_12 span,
+body[data-header-format=left-header] #header-outer #social-in-menu a,
+body[data-header-format=left-header].material #search-outer input::-webkit-input-placeholder {
+    color: #fff!important
+}
+
+#header-outer #top .slide-out-widget-area-toggle a .lines-button:after,
+#header-outer #top .slide-out-widget-area-toggle a .lines:after,
+#header-outer #top .slide-out-widget-area-toggle a .lines:before,
+#header-outer:not(.transparent) #top .slide-out-widget-area-toggle .close-line,
+#search-outer .close-wrap .close-line,
+body.material.mobile #header-outer.transparent:not([data-permanent-transparent="1"]) header .slide-out-widget-area-toggle a .close-line,
+body.material.mobile #header-outer:not([data-permanent-transparent="1"]) header .slide-out-widget-area-toggle a .close-line {
+    background-color: #fff
+}
+
+#header-outer:not(.transparent) #top .slide-out-widget-area-toggle .close-line {
+    border-color: #fff
+}
+
+#header-outer #mobile-menu ul li a:focus,
+#header-outer #mobile-menu ul li a:focus .sf-sub-indicator i,
+#header-outer #mobile-menu ul li a:hover,
+#header-outer #mobile-menu ul li a:hover .sf-sub-indicator i,
+#header-outer #mobile-menu ul li[class*=current]>a,
+#header-outer #mobile-menu ul li[class*=current]>a i,
+#header-outer #top .sf-menu>li>a:hover .sf-sub-indicator i,
+#header-outer #top nav ul #search-btn a:hover span,
+#header-outer #top nav ul .slide-out-widget-area-toggle a:hover span,
+#header-outer:not(.transparent) #top #logo:focus,
+#header-outer[data-lhe=default] #top nav>ul>li>a:hover,
+body #header-outer:not(.transparent) #social-in-menu a i:after,
+body #header-outer[data-lhe=default] #top nav .sf-menu>.current-menu-item>a,
+body #header-outer[data-lhe=default] #top nav .sf-menu>.current_page_item>a,
+body #header-outer[data-lhe=default] #top nav .sf-menu>.current_page_item>a .sf-sub-indicator i,
+body #header-outer[data-lhe=default] #top nav>ul>li>a:hover,
+body #top nav .sf-menu>.current_page_item>a .sf-sub-indicator i,
+body.material #header-outer:not(.transparent) .cart-outer:hover .cart-menu-wrap .icon-salient-cart,
+body:not(.material) #search-outer #search #close a span:hover {
+    color: #ff1053!important
+}
+
+#header-outer:not(.transparent) #top nav ul .slide-out-widget-area-toggle a:hover .lines-button:after,
+#header-outer:not(.transparent) #top nav ul .slide-out-widget-area-toggle a:hover .lines:after,
+#header-outer:not(.transparent) #top nav ul .slide-out-widget-area-toggle a:hover .lines:before,
+body[data-header-format=left-header] #header-outer[data-lhe=animated_underline] #top nav>ul>li:not([class*=button_])>a>span:after {
+    background-color: #ff1053!important
+}
+
+#header-outer[data-lhe=animated_underline] #top nav>ul>li>a:after,
+body.material #header-outer #search-outer #search input[type=text],
+body[data-header-format=left-header].material #search-outer #search input[type=text] {
+    border-color: #ff1053
+}
+
+#header-outer .widget_shopping_cart .cart_list a,
+#header-outer .widget_shopping_cart .cart_list li,
+#header-outer .widget_shopping_cart_content,
+#header-secondary-outer .sf-menu li ul,
+#header-secondary-outer ul ul li a,
+#top nav>ul>.megamenu>.sub-menu,
+.woocommerce .cart-notification,
+body #top nav>ul>.megamenu>.sub-menu>li>a,
+body:not([data-header-format=left-header]) #top .sf-menu li ul {
+    background-color: #fff
+}
+
+body[data-header-format=left-header] #header-outer .cart-outer .cart-notification:after {
+    border-color: transparent transparent #fff transparent
+}
+
+#header-outer #top nav>ul>li:not(.megamenu) ul a:hover,
+#header-outer:not([data-format=left-header]) #top nav>ul>li:not(.megamenu) ul .current-menu-item>a,
+#header-outer:not([data-format=left-header]) #top nav>ul>li:not(.megamenu) ul a:hover,
+#header-secondary-outer ul ul li a:focus,
+#header-secondary-outer ul ul li a:hover,
+#header-secondary-outer ul>li:not(.megamenu) ul a:hover,
+#top .sf-menu li ul .current-menu-item>a,
+#top .sf-menu li ul li a:hover,
+#top nav>ul>.megamenu>ul ul .current-menu-item>a,
+#top nav>ul>.megamenu>ul ul li a:focus,
+#top nav>ul>.megamenu>ul ul li a:hover,
+body:not([data-header-format=left-header]) #top nav>ul>.megamenu>ul ul .current-menu-item>a {
+    background-color: #ff1053!important
+}
+
+#header-outer #top .sf-menu li ul .sf-sub-indicator i,
+#header-outer #top nav>ul>.nectar-woo-cart .cart-outer .widget ul a:hover,
+#header-outer .cart-notification .item-name,
+#header-outer .cart-outer .total,
+#header-outer .cart-outer .total strong,
+#header-outer .widget_shopping_cart .quantity,
+#header-outer:not([data-format=left-header]) #top nav>ul>li:not(.megamenu) ul a,
+#header-secondary-outer ul ul li a,
+#top .sf-menu li ul li a,
+.cart-outer .cart-notification,
+.woocommerce .cart-notification .item-name,
+body #header-outer .widget_shopping_cart .cart_list a {
+    color: #000!important
+}
+
+#header-outer #top nav ul li li:hover>a .sf-sub-indicator i,
+#header-outer #top nav>ul>li:not(.megamenu) ul a:hover,
+#header-outer:not([data-format=left-header]) #top nav>ul>.megamenu ul ul .current-menu-item.has-ul>a,
+#header-outer:not([data-format=left-header]) #top nav>ul>.megamenu ul ul .current-menu-item>a,
+#header-outer:not([data-format=left-header]) #top nav>ul>li:not(.megamenu) .current-menu-item>a,
+#header-outer:not([data-format=left-header]) #top nav>ul>li:not(.megamenu) ul .current-menu-item>a,
+#header-outer:not([data-format=left-header]) #top nav>ul>li:not(.megamenu) ul a:hover,
+#header-outer[data-format=left-header] .sf-menu .sub-menu .current-menu-item>a,
+#header-secondary-outer ul ul li:hover>a,
+#header-secondary-outer ul ul li:hover>a i,
+#top nav>ul>.megamenu>ul ul .current-menu-item>a,
+#top nav>ul>.megamenu>ul ul li a:focus,
+#top nav>ul>.megamenu>ul ul li a:hover,
+#top nav>ul>.megamenu>ul>li>a:hover,
+body #top nav .sf-menu ul .current-menu-item>a,
+body #top nav .sf-menu ul .current_page_item>a,
+body #top nav .sf-menu ul .current_page_item>a .sf-sub-indicator i,
+body #top nav .sf-menu ul li:hover>a,
+body #top nav .sf-menu ul li:hover>a .sf-sub-indicator i,
+body #top nav>ul>.megamenu ul li:hover>a,
+body .sf-menu>li>a:active>.sf-sub-indicator i,
+body:not([data-header-format=left-header]) #top nav>ul>.megamenu>ul ul .current-menu-item>a,
+body:not([data-header-format=left-header]) #top nav>ul>.megamenu>ul>li:hover>a,
+body:not([data-header-format=left-header]) #top nav>ul>.megamenu>ul>li>ul>.has-ul:hover>a,
+body:not([data-header-format=left-header]) #top nav>ul>.megamenu>ul>li>ul>.has-ul>a:focus,
+body:not([data-header-format=left-header]) #top nav>ul>.megamenu>ul>li>ul>.has-ul>a:hover,
+body[data-dropdown-style=minimal] #header-secondary-outer ul>li:not(.megamenu) ul a:hover {
+    color: #fff!important
+}
+
+body:not([data-header-format=left-header]) #top nav>ul>.megamenu>ul>li>a,
+body:not([data-header-format=left-header]) #top nav>ul>.megamenu>ul>li>ul>.has-ul>a {
+    color: #fff!important
+}
+
+#header-outer:not([data-format=left-header]) #top nav>ul>.megamenu ul ul .current-menu-item.has-ul>a,
+#top nav>ul>.megamenu>ul ul .current-menu-item>a,
+body:not([data-header-format=left-header]) #top nav>ul>.megamenu>ul>li:hover>a,
+body:not([data-header-format=left-header]) #top nav>ul>.megamenu>ul>li>ul>.has-ul:hover>a,
+body:not([data-header-format=left-header]) #top nav>ul>.megamenu>ul>li>ul>.has-ul>a:focus {
+    color: #ff1053!important
+}
+
+#header-outer:not(.transparent) .sf-menu>li ul {
+    border-color: #30383d
+}
+
+#header-outer:not(.transparent) .sf-menu>li ul {
+    border-top-width: 1px;
+    border-top-style: solid
+}
+
+#header-outer #header-secondary-outer,
+#header-secondary-outer {
+    background-color: #f8f8f8
+}
+
+#header-secondary-outer #social li a i,
+#header-secondary-outer nav>ul>li>a,
+#header-secondary-outer[data-lhe=animated_underline] nav>.sf-menu>li:hover>a,
+body #header-secondary-outer nav>ul>li>a .sf-sub-indicator i {
+    color: #666
+}
+
+#header-secondary-outer #social li a:hover i,
+#header-secondary-outer nav>ul>.current-menu-item>a,
+#header-secondary-outer nav>ul>.current-menu-item>a .sf-sub-indicator i,
+#header-secondary-outer nav>ul>li:hover>a,
+#header-secondary-outer nav>ul>li:hover>a .sf-sub-indicator i,
+#header-secondary-outer[data-lhe=animated_underline] nav>.sf-menu>li>a:after {
+    color: #222!important
+}
+
+#header-outer .widget_shopping_cart .cart_list a,
+#header-outer .widget_shopping_cart .cart_list li,
+#header-outer .widget_shopping_cart_content,
+#header-secondary-outer ul ul li a,
+#top nav>ul>.megamenu>.sub-menu,
+.woocommerce .cart-notification,
+body #top nav>ul>.megamenu>.sub-menu>li>a,
+body:not([data-header-format=left-header]) #top .sf-menu li ul {
+    background-color: rgba(255, 255, 255, 100)!important
+}
+
+#slide-out-widget-area-bg.fullscreen,
+#slide-out-widget-area:not(.fullscreen-alt):not(.fullscreen),
+body.material #slide-out-widget-area-bg.slide-out-from-right {
+    background-color: #ff1053
+}
+
+#slide-out-widget-area,
+#slide-out-widget-area a,
+#slide-out-widget-area.fullscreen-alt .inner .off-canvas-menu-container li a,
+body #slide-out-widget-area .slide_out_area_close .icon-default-style[class^=icon-],
+body #slide-out-widget-area.slide-out-from-right-hover .inner .off-canvas-menu-container li a,
+body.material #slide-out-widget-area.slide-out-from-right .off-canvas-social-links a:hover i:before {
+    color: #fff
+}
+
+body.material #slide-out-widget-area[class*=slide-out-from-right] .off-canvas-menu-container li a:after {
+    border-color: #fff
+}
+
+.slide-out-hover-icon-effect.slide-out-widget-area-toggle .lines-button:after,
+.slide-out-hover-icon-effect.slide-out-widget-area-toggle .lines:after,
+.slide-out-hover-icon-effect.slide-out-widget-area-toggle .lines:before {
+    background-color: #fff
+}
+
+#slide-out-widget-area h1,
+#slide-out-widget-area h2,
+#slide-out-widget-area h3,
+#slide-out-widget-area h4,
+#slide-out-widget-area h5 {
+    color: #fff
+}
+
+#slide-out-widget-area.fullscreen-alt .inner .off-canvas-menu-container li a:hover,
+#slide-out-widget-area.slide-out-from-right-hover .inner .off-canvas-menu-container li a:hover,
+#slide-out-widget-area.slide-out-from-right-hover a:hover,
+body #slide-out-widget-area .slide_out_area_close:hover .icon-default-style[class^=icon-],
+body #slide-out-widget-area.fullscreen a:hover,
+body #slide-out-widget-area.slide-out-from-right a:hover,
+body.material #slide-out-widget-area.slide-out-from-right .off-canvas-menu-container .current-menu-item>a,
+body.material #slide-out-widget-area.slide-out-from-right .off-canvas-social-links a i:after {
+    color: #fff!important
+}
+
+body.material #slide-out-widget-area[class*=slide-out-from-right] .off-canvas-menu-container li a:after {
+    border-color: #fff
+}
+
+body[data-slide-out-widget-area-style=slide-out-from-right].material .slide_out_area_close:before {
+    background-color: #fff
+}
+
+@media only screen and (min-width:1000px) {
+    body[data-slide-out-widget-area-style=slide-out-from-right].material .slide_out_area_close .close-line {
+        background-color: #ff1053
+    }
+}
+
+#footer-outer,
+#nectar_fullscreen_rows>#footer-outer.wpb_row .full-page-inner-wrap {
+    background-color: #23272a!important
+}
+
+#footer-outer #footer-widgets {
+    border-bottom: none
+}
+
+#footer-outer,
+#footer-outer a:not(.nectar-button) {
+    color: #cecece!important
+}
+
+#footer-outer #footer-widgets .widget h4 {
+    color: #0a0a0a!important
+}
+
+#footer-outer #copyright {
+    border: none;
+    background-color: #23272a
+}
+
+#footer-outer #copyright .widget h4,
+#footer-outer #copyright li a i,
+#footer-outer #copyright p {
+    color: #e0e0e0
+}
+
+#footer-outer[data-cols="1"] #copyright li a i:after {
+    border-color: #e0e0e0
+}
+
+#footer-outer #copyright li a:hover i,
+#footer-outer[data-cols="1"] #copyright li a:hover i,
+#footer-outer[data-cols="1"] #copyright li a:hover i:after {
+    border-color: #3452ff;
+    color: #3452ff
+}
+
+#ajax-content-wrap #footer-outer #copyright {
+    border-top: 1px solid rgba(255, 255, 255, .18)
+}
+
+body #slide-out-widget-area-bg {
+    background-color: rgba(0, 0, 0, .8)
+}
+
+#nectar_fullscreen_rows {
+    background-color: #333
+}
+
+@media only screen and (min-width:1000px) {
+    #header-outer[data-format=centered-menu-bottom-bar] #top .span_9 #logo {
+        margin-top: -18px
+    }
+    #header-outer[data-format=centered-menu-bottom-bar] #top .span_9 nav>ul>li:not(#social-in-menu):not(#nectar-user-account):not(#search-btn):not(.slide-out-widget-area-toggle)>a {
+        padding-bottom: 36px
+    }
+    #header-outer #logo {
+        margin-top: 36px;
+        margin-bottom: 36px;
+        position: relative
+    }
+    #header-outer.small-nav #logo {
+        margin-top: 20px;
+        margin-bottom: 20px
+    }
+    #header-outer.small-nav #logo img {
+        height: 16px
+    }
+}
+
+#header-outer #logo img {
+    height: 22px
+}
+
+#header-outer[data-lhe=animated_underline] #top nav>ul>li>a {
+    margin-left: 15px;
+    margin-right: 15px
+}
+
+#header-outer[data-lhe=default] #top nav>ul>li>a {
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+#header-outer[data-lhe=animated_underline][data-condense=true][data-format=centered-menu-bottom-bar].fixed-menu #top nav>ul>li>a {
+    margin-left: 11px;
+    margin-right: 11px
+}
+
+#header-outer[data-lhe=default][data-condense=true][data-format=centered-menu-bottom-bar].fixed-menu #top nav>ul>li>a {
+    padding-left: 11px;
+    padding-right: 11px
+}
+
+#header-space {
+    height: 94px
+}
+
+@media only screen and (max-width:999px) {
+    #header-space {
+        height: 48px
+    }
+}
+
+@media only screen and (max-width:999px) {
+    .using-mobile-browser #nectar_fullscreen_rows:not(.afterLoaded):not([data-mobile-disable=on])>div,
+    .using-mobile-browser #page-header-wrap.fullscreen-header,
+    .using-mobile-browser #page-header-wrap.fullscreen-header #page-header-bg {
+        height: calc(100vh - 100px)
+    }
+    .using-mobile-browser .wpb_row.vc_row-o-full-height.top-level,
+    .using-mobile-browser .wpb_row.vc_row-o-full-height.top-level>.col.span_12 {
+        min-height: calc(100vh - 100px)
+    }
+    #nectar_fullscreen_rows:not(.afterLoaded):not([data-mobile-disable=on])>div,
+    #page-header-wrap.fullscreen-header,
+    #page-header-wrap.fullscreen-header #page-header-bg,
+    .nectar_fullscreen_zoom_recent_projects,
+    html:not(.nectar-box-roll-loaded) .nectar-box-roll>#page-header-bg.fullscreen-header {
+        height: calc(100vh - 47px)
+    }
+    .wpb_row.vc_row-o-full-height.top-level,
+    .wpb_row.vc_row-o-full-height.top-level>.col.span_12 {
+        min-height: calc(100vh - 47px)
+    }
+    [data-bg-header=true][data-permanent-transparent="1"] #page-header-wrap.fullscreen-header,
+    [data-bg-header=true][data-permanent-transparent="1"] #page-header-wrap.fullscreen-header #page-header-bg,
+    [data-bg-header=true][data-permanent-transparent="1"] .nectar_fullscreen_zoom_recent_projects,
+    html:not(.nectar-box-roll-loaded) [data-bg-header=true][data-permanent-transparent="1"] .nectar-box-roll>#page-header-bg.fullscreen-header {
+        height: 100vh
+    }
+    [data-permanent-transparent="1"] .wpb_row.vc_row-o-full-height.top-level,
+    [data-permanent-transparent="1"] .wpb_row.vc_row-o-full-height.top-level>.col.span_12 {
+        min-height: 100vh
+    }
+    body[data-transparent-header=false] #ajax-content-wrap.no-scroll {
+        min-height: calc(100vh - 47px);
+        height: calc(100vh - 47px)
+    }
+}
+
+#header-outer[data-format=centered-menu-bottom-bar][data-condense=true] .span_9 #logo img {
+    height: 24px
+}
+
+@media only screen and (max-width:999px) {
+    body #top #logo img {
+        height: 24px!important
+    }
+}
+
+#ajax-loading-screen .loading-icon,
+.loading-icon {
+    background-image: url("")
+}
+
+@media only screen and (min-width:1000px) and (max-width:1300px) {
+    .full-width-content .vc_span12 .swiper-slide .content h2,
+    .nectar-slider-wrap[data-full-width=true] .swiper-slide .content h2 {
+        font-size: 45px!important;
+        line-height: 51px!important
+    }
+    .full-width-content .vc_span12 .swiper-slide .content p,
+    .nectar-slider-wrap[data-full-width=true] .swiper-slide .content p {
+        font-size: 18px!important;
+        line-height: 31.2px!important
+    }
+}
+
+@media only screen and (min-width :690px) and (max-width :999px) {
+    .full-width-content .vc_span12 .swiper-slide .content h2,
+    .nectar-slider-wrap[data-full-width=true] .swiper-slide .content h2 {
+        font-size: 33px!important;
+        line-height: 39px!important
+    }
+    .full-width-content .vc_span12 .swiper-slide .content p,
+    .nectar-slider-wrap[data-full-width=true] .swiper-slide .content p {
+        font-size: 13.2px!important;
+        line-height: 24px!important
+    }
+}
+
+#header-outer.transparent #top #logo,
+#header-outer.transparent #top #logo:hover {
+    color: #fff
+}
+
+#header-outer.transparent[data-permanent-transparent=false] #top .slide-out-widget-area-toggle.mobile-icon i:after,
+#header-outer.transparent[data-permanent-transparent=false] #top .slide-out-widget-area-toggle.mobile-icon i:before,
+body #header-outer[data-permanent-transparent="1"].transparent:not(.dark-slide)>#top .span_9>.slide-out-widget-area-toggle .lines-button:after,
+body #header-outer[data-permanent-transparent="1"].transparent:not(.dark-slide)>#top .span_9>.slide-out-widget-area-toggle .lines:after,
+body #header-outer[data-permanent-transparent="1"].transparent:not(.dark-slide)>#top .span_9>.slide-out-widget-area-toggle .lines:before,
+body.material.mobile #header-outer.transparent:not([data-permanent-transparent="1"]) header .slide-out-widget-area-toggle a .close-line {
+    background-color: #fff!important
+}
+
+#header-outer.transparent #top nav>.sf-menu>li>a,
+#header-outer.transparent #top nav>ul>li>a,
+#header-outer.transparent #top nav>ul>li>a>.sf-sub-indicator i {
+    color: #fff!important;
+    opacity: .75;
+    transition: opacity .2s ease, color .2s ease
+}
+
+#header-outer.transparent #top nav .sf-menu>.current-menu-item>a,
+#header-outer.transparent #top nav .sf-menu>.current-menu-item>a i,
+#header-outer.transparent #top nav ul #search-btn a:hover span,
+#header-outer.transparent #top nav ul .slide-out-widget-area-toggle a:hover span,
+#header-outer.transparent #top nav>ul>li>a:hover>.sf-sub-indicator>i,
+#header-outer.transparent .cart-outer:hover .icon-salient-cart,
+#header-outer.transparent[data-lhe=default] #top nav .sf-menu>.current-menu-item>a,
+#header-outer.transparent[data-lhe=default] #top nav .sf-menu>.current_page_item>a,
+#header-outer.transparent[data-lhe=default] #top nav>ul>li>a:hover,
+#header-outer.transparent[data-permanent-transparent=false]:not(.dark-slide) #top #mobile-cart-link i,
+#header-outer.transparent[data-permanent-transparent=false]:not(.dark-slide) #top .span_9>a[class*=mobile-]>*,
+#header-outer[data-permanent-transparent="1"].transparent:not(.dark-slide) #top #mobile-cart-link i,
+#header-outer[data-permanent-transparent="1"].transparent:not(.dark-slide) #top .span_9>a[class*=mobile-]>*,
+body #header-outer.transparent[data-lhe=default] #top nav .sf-menu>.current_page_item>a .sf-sub-indicator i {
+    opacity: 1;
+    color: #fff!important
+}
+
+#header-outer.transparent #top nav ul #search-btn a:focus span,
+#header-outer.transparent #top nav ul .slide-out-widget-area-toggle a:focus span,
+#header-outer.transparent[data-lhe=animated_underline] #top nav .sf-menu>.current_page_item>a,
+#header-outer.transparent[data-lhe=animated_underline] #top nav>ul>li>a:focus,
+#header-outer.transparent[data-lhe=animated_underline] #top nav>ul>li>a:hover,
+#header-outer.transparent[data-lhe=default] #top nav>ul>li>a:focus {
+    opacity: 1
+}
+
+#header-outer[data-lhe=animated_underline].transparent #top nav>ul>li>a:after {
+    border-color: #fff!important
+}
+
+#header-outer.transparent>#top nav ul .slide-out-widget-area-toggle .lines-button:after,
+#header-outer.transparent>#top nav ul .slide-out-widget-area-toggle a .lines,
+#header-outer.transparent>#top nav ul .slide-out-widget-area-toggle a .lines:after,
+#header-outer.transparent>#top nav ul .slide-out-widget-area-toggle a .lines:before,
+body.material #header-outer.transparent .slide-out-widget-area-toggle a .close-line {
+    background-color: #fff!important
+}
+
+#header-outer.transparent #top nav ul .slide-out-widget-area-toggle a .lines,
+#header-outer.transparent:not(.side-widget-open) #top nav ul .slide-out-widget-area-toggle a .lines-button:after,
+body.material:not(.mobile) #header-outer.transparent .slide-out-widget-area-toggle a .close-line {
+    opacity: .75
+}
+
+#header-outer.transparent #top nav ul .slide-out-widget-area-toggle a:focus .lines,
+#header-outer.transparent #top nav ul .slide-out-widget-area-toggle a:focus .lines-button:after,
+#header-outer.transparent #top nav ul .slide-out-widget-area-toggle a:focus .lines:after,
+#header-outer.transparent #top nav ul .slide-out-widget-area-toggle a:focus .lines:before,
+#header-outer.transparent #top nav ul .slide-out-widget-area-toggle a:hover .lines,
+#header-outer.transparent #top nav ul .slide-out-widget-area-toggle a:hover .lines-button:after,
+#header-outer.transparent #top nav ul .slide-out-widget-area-toggle a:hover .lines:after,
+#header-outer.transparent #top nav ul .slide-out-widget-area-toggle a:hover .lines:before,
+#header-outer.transparent.side-widget-open #top nav ul .slide-out-widget-area-toggle a .lines,
+body.material #header-outer.transparent .slide-out-widget-area-toggle a:hover .close-line {
+    opacity: 1
+}
+
+#header-outer.transparent[data-permanent-transparent=false].dark-slide #top .slide-out-widget-area-toggle.mobile-icon i:after,
+#header-outer.transparent[data-permanent-transparent=false].dark-slide #top .slide-out-widget-area-toggle.mobile-icon i:before {
+    background-color: #000!important
+}
+
+#header-outer.transparent.dark-slide>#top nav ul #search-btn a span,
+#header-outer.transparent.dark-slide>#top nav>ul>li>a,
+#header-outer.transparent.dark-slide>#top nav>ul>li>a>.sf-sub-indicator [class^=icon-],
+#header-outer.transparent[data-permanent-transparent=false].dark-slide #top #mobile-cart-link i,
+#header-outer.transparent[data-permanent-transparent=false].dark-slide #top .span_9>a[class*=mobile-]>*,
+#header-outer[data-permanent-transparent="1"].transparent.dark-slide #top #mobile-cart-link i {
+    color: #000!important
+}
+
+#header-outer.transparent.dark-slide>#top nav ul .slide-out-widget-area-toggle .lines-button:after,
+#header-outer.transparent.dark-slide>#top nav ul .slide-out-widget-area-toggle a .lines-button i:after,
+#header-outer.transparent.dark-slide>#top nav ul .slide-out-widget-area-toggle a .lines-button i:before,
+body #header-outer[data-permanent-transparent="1"].transparent.dark-slide>#top .span_9>.slide-out-widget-area-toggle.mobile-icon .lines-button:after,
+body #header-outer[data-permanent-transparent="1"].transparent.dark-slide>#top .span_9>.slide-out-widget-area-toggle.mobile-icon .lines:after,
+body #header-outer[data-permanent-transparent="1"].transparent.dark-slide>#top .span_9>.slide-out-widget-area-toggle.mobile-icon .lines:before {
+    background-color: #000!important
+}
+
+#header-outer.transparent.dark-slide>#top #logo,
+#header-outer.transparent.dark-slide>#top .cart-outer:hover .icon-salient-cart,
+#header-outer.transparent.dark-slide>#top nav .sf-menu>.current-menu-item>a,
+#header-outer.transparent.dark-slide>#top nav .sf-menu>.current-menu-item>a i,
+#header-outer.transparent.dark-slide>#top nav .sf-menu>.current_page_item>a,
+#header-outer.transparent.dark-slide>#top nav ul #search-btn a:hover span,
+#header-outer.transparent.dark-slide>#top nav>ul>li>a:hover,
+#header-outer.transparent.dark-slide>#top nav>ul>li>a:hover>.sf-sub-indicator>i,
+#header-outer.transparent[data-lhe=default].dark-slide #top nav .sf-menu>.current_page_item>a,
+#header-outer.transparent[data-lhe=default].dark-slide #top nav>ul>li>a:hover,
+body #header-outer.dark-slide.transparent[data-lhe=default] #top nav .sf-menu>.current_page_item>a .sf-sub-indicator i {
+    color: #000!important
+}
+
+#header-outer[data-lhe=animated_underline].transparent.dark-slide #top nav>ul>li>a:after {
+    border-color: #000!important
+}
+
+.loading-icon .material-icon .bar:after {
+    background-color: #ff1053
+}
+
+.loading-icon .material-icon .bar {
+    border-color: #ff1053
+}
+
+.loading-icon .material-icon .color-2 .bar:after {
+    background-color: #ff4f0f
+}
+
+.loading-icon .material-icon .color-2 .bar {
+    border-color: #ff4f0f
+}
+
+@media only screen and (min-width:1000px) {
+    .container,
+    .material #search-outer #search,
+    .post-area.standard-minimal.full-width-content .post .inner-wrap,
+    body[data-header-format=left-header] .container {
+        max-width: 1425px;
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 90px
+    }
+    body[data-header-format=left-header] .container,
+    body[data-header-format=left-header] .post-area.standard-minimal.full-width-content .post .inner-wrap {
+        padding: 0 60px
+    }
+    .swiper-slide .content {
+        padding: 0 90px
+    }
+    body[data-header-format=left-header] .swiper-slide .content {
+        padding: 0 60px
+    }
+    #search-outer #search #close a {
+        right: 90px
+    }
+    #boxed,
+    #boxed #header-outer,
+    #boxed #page-header-bg[data-parallax="1"],
+    #boxed #slide-out-widget-area-bg.fullscreen,
+    body[data-footer-reveal="1"] #boxed #footer-outer {
+        max-width: 1400px!important;
+        width: 90%!important;
+        min-width: 980px
+    }
+    #boxed #header-outer[data-format=centered-menu-bottom-bar][data-condense=true]:not(.fixed-menu),
+    #boxed #header-secondary-outer.centered-menu-bottom-bar,
+    body[data-hhun="1"] #boxed #header-secondary-outer {
+        width: 100%!important
+    }
+    #boxed #search-outer #search #close a {
+        right: 0!important
+    }
+    #boxed .container {
+        width: 92%;
+        padding: 0
+    }
+    #boxed #footer-outer #copyright,
+    #boxed #footer-outer #footer-widgets {
+        padding-left: 0;
+        padding-right: 0
+    }
+}
+
+@media only screen and (min-width:1000px) {
+    .container,
+    .material #search-outer #search,
+    .post-area.standard-minimal.full-width-content .post .inner-wrap,
+    body[data-header-format=left-header] .container {
+        max-width: 1500px
+    }
+}
+
+.toggle h3 a,
+body,
+table {
+    font-family: Muli;
+    font-size: 16px;
+    line-height: 32px;
+    font-weight: 600
+}
+
+b,
+strong {
+    font-family: Muli;
+    font-weight: 600
+}
+
+.nectar-fancy-ul ul li .icon-default-style[class^=icon-] {
+    line-height: 32px
+}
+
+@media only screen and (max-width:1300px) and (min-width:1000px) {
+    body {
+        font-size: 16px;
+        line-height: 32px
+    }
+}
+
+@media only screen and (max-width:999px) and (min-width:690px) {
+    body {
+        font-size: 16px;
+        line-height: 32px
+    }
+}
+
+@media only screen and (max-width:690px) {
+    body {
+        font-size: 16px;
+        line-height: 32px
+    }
+}
+
+#header-outer #mobile-menu ul li a,
+#top nav>ul>li>a,
+body.material #search-outer #search input[type=text] {
+    font-family: Roboto;
+    text-transform: capitalize;
+    letter-spacing: 0;
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 500
+}
+
+#header-outer .widget_shopping_cart .cart_list a,
+#header-secondary-outer nav>ul>li>a,
+#header-secondary-outer ul ul li a,
+#top .sf-menu li ul li a {
+    font-family: Roboto;
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 500
+}
+
+@media only screen and (min-width :1px) and (max-width :999px) {
+    #top .sf-menu a {
+        font-family: Roboto!important;
+        font-size: 14px!important
+    }
+}
+
+#page-header-bg h1,
+body h1 {
+    font-family: Poppins;
+    text-transform: capitalize;
+    letter-spacing: 0;
+    font-size: 45px;
+    line-height: 45px;
+    font-weight: 700
+}
+
+@media only screen and (max-width:1300px) and (min-width:1000px) {
+    .full-width-content .recent-post-container .inner-wrap h2,
+    body h1 {
+        font-size: 25px;
+        line-height: 35.5px
+    }
+}
+
+@media only screen and (max-width:999px) and (min-width:690px) {
+    body h1 {
+        font-size: 42px;
+        line-height: 51.8px
+    }
+    .full-width-content .recent-post-container .inner-wrap h2 {
+        font-size: 42px;
+        line-height: 51.8px
+    }
+}
+
+@media only screen and (max-width:690px) {
+    body h1 {
+        font-size: 15px;
+        line-height: 25.5px
+    }
+}
+
+#page-header-bg h2,
+body h2 {
+    font-family: Poppins;
+    text-transform: none;
+    letter-spacing: 0;
+    font-size: 48px;
+    line-height: 58px;
+    font-weight: 700
+}
+
+@media only screen and (max-width:1300px) and (min-width:1000px) {
+    body h2 {
+        font-size: 40.8px;
+        line-height: 49.3px
+    }
+    .row .span_3 h2,
+    .row .vc_col-sm-2 h2,
+    .row .vc_col-sm-3 h2,
+    .row .vc_col-sm-4 h2 {
+        font-size: 33.6px;
+        line-height: 40.6px
+    }
+}
+
+@media only screen and (max-width:999px) and (min-width:690px) {
+    .col h2,
+    h2 {
+        font-size: 38.4px;
+        line-height: 46.4px
+    }
+}
+
+@media only screen and (max-width:690px) {
+    .col h2,
+    h2 {
+        font-size: 25px;
+        line-height: 33.5px
+    }
+}
+
+.row .col h3,
+.toggle h3 a,
+body h3 {
+    font-family: Poppins;
+    text-transform: none;
+    letter-spacing: 0;
+    font-size: 26px;
+    line-height: 36px;
+    font-weight: 400
+}
+
+@media only screen and (max-width:1300px) and (min-width:1000px) {
+    .row .col h3,
+    .row .span_3 h3,
+    .row .vc_col-sm-2 h3,
+    .row .vc_col-sm-3 h3,
+    .row .vc_col-sm-4 h3,
+    body h3 {
+        font-size: 22.1px;
+        line-height: 30.6px
+    }
+}
+
+@media only screen and (max-width:999px) and (min-width:690px) {
+    .row .col h3,
+    .row .span_3 h3,
+    .row .vc_col-sm-2 h3,
+    .row .vc_col-sm-3 h3,
+    .row .vc_col-sm-4 h3,
+    body h3 {
+        font-size: 20.8px;
+        line-height: 28.8px
+    }
+}
+
+@media only screen and (max-width:690px) {
+    .row .col h3,
+    .row .span_3 h3,
+    .row .vc_col-sm-2 h3,
+    .row .vc_col-sm-3 h3,
+    .row .vc_col-sm-4 h3,
+    body h3 {
+        font-size: 20.8px;
+        line-height: 28.8px
+    }
+}
+
+#header-outer .total,
+#header-outer .total strong,
+.row .col h4,
+body h4 {
+    font-family: Poppins;
+    text-transform: none;
+    letter-spacing: 0;
+    font-size: 20px;
+    line-height: 26px;
+    font-weight: 700
+}
+
+@media only screen and (max-width:1300px) and (min-width:1000px) {
+    .row .col h4,
+    body h4 {
+        font-size: 20px;
+        line-height: 26px
+    }
+}
+
+@media only screen and (max-width:999px) and (min-width:690px) {
+    .row .col h4,
+    body h4 {
+        font-size: 20px;
+        line-height: 26px
+    }
+}
+
+@media only screen and (max-width:690px) {
+    .row .col h4,
+    body h4 {
+        font-size: 18px;
+        line-height: 23.4px
+    }
+}
+
+.row .col h5,
+body h5 {
+    font-family: Roboto;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 14px;
+    line-height: 25px;
+    font-weight: 700
+}
+
+@media only screen and (max-width:1300px) and (min-width:1000px) {
+    .row .col h5,
+    body h5 {
+        font-size: 14px;
+        line-height: 25px
+    }
+}
+
+@media only screen and (max-width:999px) and (min-width:690px) {
+    .row .col h5,
+    body h5 {
+        font-size: 14px;
+        line-height: 25px
+    }
+}
+
+@media only screen and (max-width:690px) {
+    .row .col h5,
+    body h5 {
+        font-size: 14px;
+        line-height: 25px
+    }
+}
+
+body em,
+body i {
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 400;
+    font-style: italic
+}
+
+#header-outer .widget_shopping_cart .cart_list a,
+.material .tabbed>ul li a,
+.material .widget li a,
+.tabbed[data-style=minimal_alt]>ul li a,
+.woocommerce .cart .quantity input.plus {
+    font-family: Roboto;
+    font-weight: 700!important
+}
+
+body #page-header-bg h1 {
+    font-family: Poppins;
+    font-size: 60px;
+    line-height: 60px;
+    font-weight: 300
+}
+
+@media only screen and (min-width:690px) and (max-width:999px) {
+    #page-header-bg .span_6 h1 {
+        font-size: 42px!important;
+        line-height: 46px!important
+    }
+}
+
+@media only screen and (min-width:1000px) and (max-width:1300px) {
+    #page-header-bg .span_6 h1 {
+        font-size: 51px;
+        line-height: 51px
+    }
+}
+
+@media only screen and (min-width:1300px) and (max-width:1500px) {
+    #page-header-bg .span_6 h1 {
+        font-size: 54px;
+        line-height: 54px
+    }
+}
+
+@media only screen and (max-width:690px) {
+    #page-header-bg.fullscreen-header .span_6 h1 {
+        font-size: 27px!important;
+        line-height: 27px!important
+    }
+}
+
+body #slide-out-widget-area .inner .off-canvas-menu-container li a,
+body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a,
+body #slide-out-widget-area.fullscreen-alt .inner .off-canvas-menu-container li a,
+body #slide-out-widget-area.slide-out-from-right-hover .inner .off-canvas-menu-container li a {
+    font-family: Roboto;
+    text-transform: capitalize;
+    font-size: 30px;
+    line-height: 35px;
+    font-weight: 500
+}
+
+@media only screen and (min-width:690px) and (max-width:999px) {
+    body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a,
+    body #slide-out-widget-area.fullscreen-alt .inner .off-canvas-menu-container li a {
+        font-size: 27px!important;
+        line-height: 31.5px!important
+    }
+}
+
+@media only screen and (max-width:690px) {
+    body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a,
+    body #slide-out-widget-area.fullscreen-alt .inner .off-canvas-menu-container li a {
+        font-size: 21px!important;
+        line-height: 24.5px!important
+    }
+}
+
+blockquote {
+    font-family: Poppins;
+    letter-spacing: 0;
+    font-size: 18px;
+    line-height: 34px;
+    font-weight: 400
+}
+
+#footer-outer .widget h4,
+#header-outer .widget_shopping_cart a.button,
+#page-header-bg[data-post-hs=default_minimal] .inner-wrap>a,
+.material button[type=submit],
+.material input[type=submit],
+.nectar-3d-transparent-button,
+.nectar-button,
+.nectar-button.small,
+.nectar-slide-in-cart .widget_shopping_cart .buttons a,
+.pricing-column.highlight h3 .highlight-reason,
+.swiper-slide .button a,
+.text_on_hover.product .add_to_cart_button,
+.widget h4,
+.woocommerce div.product form.cart .button,
+body.material #page-header-bg.fullscreen-header .inner-wrap>a,
+body:not([data-header-format=left-header]) #top nav>ul>.megamenu>ul>li>a,
+body:not([data-header-format=left-header]) #top nav>ul>.megamenu>ul>li>ul>li.has-ul>a,
+body[data-form-submit=regular] input[type=submit] body[data-form-submit=regular] button[type=submit],
+body[data-form-submit=see-through-2] button[type=submit],
+body[data-form-submit=see-through-2] input[type=submit],
+body[data-form-submit=see-through] button[type=submit],
+body[data-form-submit=see-through] input[type=submit] {
+    font-family: Montserrat;
+    text-transform: capitalize!important;
+    letter-spacing: 0;
+    font-size: 16px;
+    font-weight: 500
+}
+
+@font-face {
+    font-family: 'maximus-icon';
+    src: url('./maximus-icons.eot');
+    src: url('./maximus-icons.eot#iefix') format('embedded-opentype'), url('./maximus-icons.woff') format('woff'), url('./maximus-icons.ttf') format('truetype'), url('./maximus-icons.svg#maximus-icons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+
+[data-icon]:before {
+    font-family: 'maximus-icon';
+    content: attr(data-icon);
+    speak: none;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+}
+
+.maximus-icon-24,
+.maximus-icon-agency,
+.maximus-icon-data-private,
+.maximus-icon-date,
+.maximus-icon-education,
+.maximus-icon-experience,
+.maximus-icon-job,
+.maximus-icon-love,
+.maximus-icon-photosession,
+.maximus-icon-proffesianal,
+.maximus-icon-registration,
+.maximus-icon-success,
+.maximus-icon-travels {
+    font-family: 'maximus-icon';
+    font-size: 78px;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+}
+
+.maximus-icon-24:before {
+    content: "\e900";
+}
+
+.maximus-icon-agency:before {
+    content: "\e901";
+}
+
+.maximus-icon-data-private:before {
+    content: "\e902";
+}
+
+.maximus-icon-date:before {
+    content: "\e903";
+}
+
+.maximus-icon-education:before {
+    content: "\e904";
+}
+
+.maximus-icon-experience:before {
+    content: "\e905";
+}
+
+.maximus-icon-job:before {
+    content: "\e906";
+}
+
+.maximus-icon-love:before {
+    content: "\e907";
+}
+
+.maximus-icon-photosession:before {
+    content: "\e908";
+}
+
+.maximus-icon-proffesianal:before {
+    content: "\e909";
+}
+
+.maximus-icon-registration:before {
+    content: "\e90a";
+}
+
+.maximus-icon-success:before {
+    content: "\e90b";
+}
+
+.maximus-icon-travels:before {
+    content: "\e90c";
+}
+.team-desc {
+	overflow: overlay;
+    height: 60vh;
+}

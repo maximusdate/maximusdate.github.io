@@ -1,0 +1,163 @@
+    * {
+        padding: 0;
+        margin: 0;
+	    -ms-overflow-style: none;  /* IE and Edge */
+	    scrollbar-width: none;  /* Firefox */
+    }
+	*::-webkit-scrollbar {
+	  display: none;
+	}
+    .loader {
+        margin: 0;
+        padding: 0;
+        position: fixed;
+        height: 100vh;
+        width: 100%;
+        z-index: 9999999;
+        overflow: overlay;
+    }
+    .d {
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        height: 100vh;
+        width: 50%;
+        top: 0;
+        overflow: hidden;
+    }
+    .loader svg {
+        width: 100%;
+        height: auto;
+        --time: 2000s;
+    }
+    .close svg path {
+        animation: fill 2s forwards linear;
+    }
+    .loader svg path {
+        fill: #00000000;
+    }
+    @keyframes fill {
+        0% {
+            fill: #00000000;
+        }
+        100% {
+            fill: #FF000C;
+            stroke-width: 0px;
+        }
+    }
+    .loader svg path:nth-child(8) {
+        --i: 262px;
+        stroke-dasharray: var(--i);
+        animation: char var(--time) linear infinite;
+        transition: 1s linear;
+    }
+    .loader svg path:nth-child(9) {
+        --f: 118px;
+        stroke-dasharray: var(--f);
+        animation: char var(--time) linear infinite;
+        transition: 1s linear;
+    }
+    .loader svg path:nth-child(10) {
+        --a: 162px;
+        stroke-dasharray: var(--a);
+        animation: char var(--time) linear infinite;
+        transition: 1s linear;
+    }
+    .loader svg path:nth-child(11) {
+        --k: 76px;
+        stroke-dasharray: var(--k);
+        animation: char var(--time) linear infinite;
+        transition: 1s linear;
+    }
+    .loader svg path:nth-child(12) {
+        --d: 262px;
+        stroke-dasharray: var(--d);
+        animation: char var(--time) linear infinite;
+        transition: 1s linear;
+    }
+    .loader svg path:nth-child(13) {
+        --t: 162px;
+        stroke-dasharray: var(--t);
+        animation: char var(--time) linear infinite;
+        transition: 1s linear;
+    }
+    .loader svg path:nth-child(14) {
+        --m: 174px;
+        stroke-dasharray: var(--m);
+        animation: char var(--time) linear infinite;
+        transition: 1s linear;
+    }
+    .loader svg path:nth-child(18) {
+        --m: 69px;
+        stroke-dasharray: var(--m);
+        animation: char var(--time) linear infinite;
+        transition: 1s linear;
+    }
+    .loader svg path:nth-child(19) {
+        --m: 333px;
+        stroke-dasharray: var(--m);
+        animation: char var(--time) linear infinite;
+        transition: 1s linear;
+    }
+    .loader svg path:nth-child(20) {
+        --r: 356px;
+        stroke-dasharray: var(--r);
+        animation: char var(--time) linear infinite;
+        transition: 1s linear;
+    }
+    .close svg path {
+        stroke-width: 0px;
+    }
+    @keyframes char {
+        100% {
+            stroke-dashoffset: 100000;
+        }
+    }
+    .loader .left {
+        left: 0;
+        background: #000000;
+    }
+    .close .left {
+        animation: left 5s forwards;
+    }
+    .loader .left svg {
+        position: absolute;
+        top: 50%;
+        right: 0;
+        transform: translate(50%, -50%);
+    }
+    .loader .right {
+        right: 0;
+        background: #000000;
+    }
+    .close .right {
+        animation: right 5s forwards;
+    }
+   .loader .right svg {
+        position: absolute;
+        top: 50%;
+        left: 0;
+        transform: translate(-50%, -50%);
+    }
+    @keyframes left {
+        0% {
+            left: 0;
+        }
+        60% {
+            left: 0;
+        }
+        100% {
+            left: -50%;
+        }
+    }
+    @keyframes right {
+        0% {
+            right: 0;
+        }
+        60% {
+            right: 0;
+        }
+        100% {
+            right: -50%;
+        }
+    }
