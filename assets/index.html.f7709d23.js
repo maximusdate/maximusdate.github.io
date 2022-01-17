@@ -1,0 +1,1 @@
+const t={key:"v-3fa4fb7c",path:"/projects/abilityslots/atlok/",title:"Avatar: The Legends Of Korra",lang:"ru-RU",frontmatter:{},excerpt:"",headers:[{level:2,title:"TODO...",slug:"todo",children:[]}],git:{updatedTime:1642414156e3,contributors:[{name:"CKATEPTb",email:"taksis@ex.ua",commits:1}]},filePathRelative:"projects/abilityslots/atlok/README.md"};export{t as data};
