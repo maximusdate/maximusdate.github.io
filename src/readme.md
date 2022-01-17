@@ -1,6 +1,6 @@
 # CKATEPTb developer site (vuepress)
 
-[![Node.js CI](https://github.com/CKATEPTb/ckateptb.github.io/actions/workflows/push.yml/badge.svg)](https://github.com/CKATEPTb/ckateptb.github.io/actions/workflows/push.yml)
+[![pages-build-deployment](https://github.com/CKATEPTb/ckateptb.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/CKATEPTb/ckateptb.github.io/actions/workflows/pages/pages-build-deployment)
 
 CKATEPTb developer site
 
