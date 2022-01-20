@@ -1,8 +1,4 @@
-# CKATEPTb developer site (vuepress)
-
-[![pages-build-deployment](https://github.com/CKATEPTb/ckateptb.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/CKATEPTb/ckateptb.github.io/actions/workflows/pages/pages-build-deployment)
-
-CKATEPTb developer site
+# Maximus landing site (vuepress)
 
 ## Install dependencies
 

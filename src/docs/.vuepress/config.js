@@ -1,7 +1,8 @@
 module.exports = {
-    description: 'CKATEPTb',
+    description: 'MaximusAgency',
     theme: '@vuepress/theme-default',
     themeConfig: {
+        contributors: false,
         logo: 'images/hero.png',
         locales: {
             '/': {
@@ -44,8 +45,8 @@ module.exports = {
     locales: {
         '/': {
             lang: 'ru-RU',
-            title: 'CKATEPTb',
-            description: 'Сайт разработчика CKATEPTb на русском'
+            title: 'MaximusAgency',
+            description: 'Найди свою любовь за границей!'
         },
     },
     plugins: [
