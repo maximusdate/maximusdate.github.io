@@ -1,7 +1,7 @@
 {
-  "name": "CKATEPTb",
-  "short_name": "CKATEPTb",
-  "description": "CKATEPTb developer site on english",
+  "name": "Maximus Landing",
+  "short_name": "Maximus",
+  "description": "Maximus Landing web page",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#fff",

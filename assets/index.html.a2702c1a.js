@@ -1,1 +1,0 @@
-const t={key:"v-237e5fa8",path:"/projects/abilityslots/",title:"AbilitySlots",lang:"ru-RU",frontmatter:{},excerpt:"",headers:[{level:2,title:"TODO...",slug:"todo",children:[]}],git:{updatedTime:1642414156e3,contributors:[{name:"CKATEPTb",email:"taksis@ex.ua",commits:1}]},filePathRelative:"projects/abilityslots/README.md"};export{t as data};

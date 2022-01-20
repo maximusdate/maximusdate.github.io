@@ -3,11 +3,6 @@ module.exports = {
     theme: '@vuepress/theme-default',
     themeConfig: {
         logo: 'images/hero.png',
-        repo: 'CKATEPTb',
-        docsRepo: 'https://github.com/CKATEPTb',
-        docsBranch: 'main',
-        docsDir: 'docs',
-        editLinkPattern: ':repo/edit/:branch/:path',
         locales: {
             '/': {
                 selectLanguageText: '🌐 Язык',
@@ -16,106 +11,27 @@ module.exports = {
                 editLinkText: 'Измените эту страницу на GitHub',
                 navbar: [
                     {
-                        text: 'Проекты',
+                        text: 'Страница',
                         children: [
                             {
-                                text: 'Tablecloth',
-                                link: '/projects/tablecloth/',
+                                text: 'Знакомство',
+                                link: '/landing/',
                             },
                             {
-                                text: 'AbilitySlots',
-                                link: '/projects/abilityslots/',
-                                children: [
-                                    {
-                                        text: 'Avatar: The Legends Of Korra',
-                                        link: '/projects/abilityslots/atlok/',
-                                    },
-                                ]
+                                text: 'Вакансии',
+                                link: '/landing/vacancy/',
                             },
                         ],
-                    },
-                    {
-                        text: 'Discord',
-                        link: 'https://discord.gg/P7FaqjcATp',
                     },
                 ],
                 sidebar: [
                     {
-                        text: 'Проекты',
-                        link: '/projects/',
-                        children: [
-                            {
-                                text: 'Tablecloth',
-                                link: '/projects/tablecloth/',
-                                children: []
-                            },
-                            {
-                                text: 'AbilitySlots',
-                                link: '/projects/abilityslots/',
-                                children: [
-                                    {
-                                        text: 'Avatar: The Legends Of Korra',
-                                        link: '/projects/abilityslots/atlok/',
-                                        children: []
-                                    },
-                                ]
-                            },
-                        ],
-                    },
-                ],
-            },
-            '/en/': {
-                selectLanguageText: '🌐 Language',
-                selectLanguageName: 'English',
-                editLink: false,
-                editLinkText: 'Edit this page on GitHub',
-                navbar: [
-                    {
-                        text: 'Project',
-                        children: [
-                            {
-                                text: 'Tablecloth',
-                                link: '/en/projects/tablecloth/',
-                            },
-                            {
-                                text: 'AbilitySlots',
-                                link: '/en/projects/abilityslots/',
-                                children: [
-                                    {
-                                        text: 'Avatar: The Legends Of Korra',
-                                        link: '/en/projects/abilityslots/atlok/',
-                                    },
-                                ]
-                            },
-                        ],
+                        text: 'Знакомство',
+                        link: '/landing/',
                     },
                     {
-                        text: 'Discord',
-                        link: 'https://discord.gg/P7FaqjcATp',
-                    },
-                ],
-                sidebar: [
-                    {
-                        text: 'Projects',
-                        link: '/en/projects/',
-                        children: [
-                            {
-                                text: 'Tablecloth',
-                                link: '/en/projects/tablecloth/',
-                                children: []
-                            },
-                            {
-                                text: 'AbilitySlots',
-                                link: '/en/projects/abilityslots/',
-                                children: [
-                                    {
-                                        text: 'Avatar: The Legends Of Korra',
-                                        link: '/en/projects/abilityslots/atlok/',
-                                        children: []
-                                    },
-                                ]
-                            },
-                        ],
+                        text: 'Вакансии',
+                        link: '/landing/vacancy/',
                     },
                 ],
             },
@@ -131,11 +47,6 @@ module.exports = {
             title: 'CKATEPTb',
             description: 'Сайт разработчика CKATEPTb на русском'
         },
-        '/en/': {
-            lang: 'en-US',
-            title: 'CKATEPTb',
-            description: 'CKATEPTb developer site on english'
-        }
     },
     plugins: [
         [
@@ -144,9 +55,6 @@ module.exports = {
                 locales: {
                     '/': {
                         placeholder: 'Поиск...',
-                    },
-                    '/en/': {
-                        placeholder: 'Search...',
                     },
                 },
             },

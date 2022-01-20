@@ -1,1 +1,0 @@
-const e={key:"v-210ac9ca",path:"/en/projects/tablecloth/",title:"Tablecloth",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"TODO...",slug:"todo",children:[]}],git:{updatedTime:1642414156e3,contributors:[{name:"CKATEPTb",email:"taksis@ex.ua",commits:1}]},filePathRelative:"en/projects/tablecloth/README.md"};export{e as data};

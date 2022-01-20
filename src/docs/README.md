@@ -2,18 +2,24 @@
 home: true
 title: Главная
 heroImage: /images/hero.png
-heroText: CKATEPTb
-tagline: JAVA/JS разработчик
+heroText: Maximus
+tagline: Найди мужчину сердца и реализуй все свои мечты вместе с нами!
 actions:
-  - text: Проекты
-    link: /projects/
+  - text: Подробнее
+    link: /landing/
     type: primary
 features:
-  - title: Web разработка
-    details: Разрабатываю сайты используя Spring, Vue.js, RSocket
-  - title: Minecraft
-    details: Разрабатываю плагины и моды для Minecraft версии 1.12.2 и выше
-  - title: Другое
-    details: Занимаюсь системным администрированием и разработкой Java серверов
-footer: CKATEPTb | Copyright © 2022
+  - title: Сотни кандидатов
+    details: Большой выбор обеспеченных и порядочных мужчин
+  - title: Идеальные фото
+    details: Бесплатные профессиональные фотосессии
+  - title: Приятные бонусы
+    details: Подарки от поклонников
+  - title: Поддержка
+    details: Персональный менеджер 24/7
+  - title: Минимум затрат
+    details: Минимум вашего времени
+  - title: Анонимность
+    details: Полная конфиденциальность
+footer: Maximus | Copyright © 2022
 ---
